@@ -1,4 +1,3 @@
-# Calculator >> README.md
+README.md
 
-c
-echo # Calculator
+A simple Python3 program to use as caluculator in any project
